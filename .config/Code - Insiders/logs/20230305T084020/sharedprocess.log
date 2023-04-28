@@ -1,0 +1,4 @@
+2023-03-05 08:40:27.135 [info] Started initializing default profile extensions in extensions installation folder. file:///home/anguyent32/.vscode-insiders/extensions
+2023-03-05 08:40:28.301 [info] Starting worker process with pid 6352 (type: fileWatcher, window: 1).
+2023-03-05 08:40:28.461 [warning] Failed to create default profile extensions manifest in extensions installation folder. file:///home/anguyent32/.vscode-insiders/extensions Unable to create file 'vscode-userdata:/home/anguyent32/.vscode-insiders/extensions/extensions.json' that already exists when overwrite flag is not set
+2023-03-05 08:40:28.462 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/anguyent32/.vscode-insiders/extensions

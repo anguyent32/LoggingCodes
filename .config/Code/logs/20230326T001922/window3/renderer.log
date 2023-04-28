@@ -1,0 +1,4 @@
+2023-03-29 21:06:25.322 [error] Extension 'github.copilot' wants API proposal 'interactive' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2023-03-29 21:06:31.307 [info] [perf] Render performance baseline is 216ms
+2023-03-29 21:07:18.863 [error] Extension 'github.copilot' wants API proposal 'interactive' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2023-03-29 21:07:30.755 [info] [perf] Render performance baseline is 227ms

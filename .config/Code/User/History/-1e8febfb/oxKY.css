@@ -1,0 +1,8 @@
+body>section, header, footer {
+    border:1px solid black;
+    box-sizing: border-box;
+}
+
+.fly{
+    float: left;
+}

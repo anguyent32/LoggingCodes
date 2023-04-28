@@ -1,0 +1,9 @@
+body>section, header, footer {
+    border:1px solid black;
+    box-sizing: border-box;
+}
+
+.fly{
+    width: 50%;
+    float: left;
+}

@@ -1,0 +1,380 @@
+/* Box Model Hack */
+* {
+  box-sizing: border-box;
+}
+
+/* Clear fix hack */
+.clearfix:after {
+     content: ".";
+     display: block;
+     clear: both;
+     visibility: hidden;
+     line-height: 0;
+     height: 0;
+}
+
+.clear {
+	clear: both;
+}
+
+/******************************************
+/* BASE STYLES
+/*******************************************/
+
+
+/******************************************
+/* LAYOUT
+/*******************************************/
+
+html>*>*{
+  clear:both;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+/*************** HEADER ****************/
+/* 
+header, header>*{
+  border:1px solid grey;
+} */
+
+header{
+  width:100%;
+  height:10%;
+
+}
+
+header>*{
+  float:left;
+  width:33.3333%;
+  margin:0;
+  height:100%;
+  padding:1%;
+}
+
+header li{
+  float:left;
+  width:25%;
+  list-style:none;
+}
+
+header li a{
+  text-decoration: none;
+  font-size:smaller;
+}
+
+div>div>button{
+  border:none;
+  padding:10% 20%;
+
+
+}
+div>div{
+  padding-left:80%;
+}
+/**************** MAIN ********************/
+
+/* main, main>*{
+  border: 1px solid black;
+} */
+
+main{
+  width:100%;
+  height:550px;
+
+}
+
+main>*{
+  float:left;
+  width:50%;
+  margin:0;
+  height:100%;
+  padding:5% 0;
+}
+
+main section>*{
+  padding: 0 20%;
+  zoom:120%;
+}
+
+main section .padright{
+  padding-right:35%;
+}
+
+main h6{
+  padding-top:3%;
+}
+
+main img{
+  width:100%;
+  height:100%;
+}
+
+main form{
+  zoom:175%;
+}
+
+main section form input{
+  width:65%;
+  border:none;
+  background:rgba(218, 218, 218,30%);
+  color:black;
+  font-size: 10px;
+  padding:3% 5%;
+}
+
+main button{
+  font-size:10px;
+  padding:2% 5%;
+  background:#0060ff;
+  color: white;
+  border:none;
+  border-radius:3px;
+}
+
+
+
+/*************** SECTION 1 ****************/
+
+/* .sect1, .sect1>*{
+  border: 1px solid black;
+} */
+
+.sect1{
+  width:100%;
+  height:400px;
+
+}
+
+.sect1>*{
+  text-align:center;
+  zoom:120%;
+  padding:0 29%;
+}
+
+.sect1 li{
+  float:left;
+  width:36%;
+  list-style:none;
+}
+
+.sect1 ul{
+  padding-left:39%;
+  padding-bottom:5%;
+}
+
+.sect1 h2{
+  zoom:140%;
+  padding-top:2%;
+  padding-bottom:1.25%;
+}
+
+.sect1 p{
+  padding-bottom:1%;
+  margin-top:0;
+}
+
+.sect1 a{
+  text-decoration: none;
+  font-weight: bolder;
+  color:#0060ff;
+}
+
+/*************** SECTION 2 ****************/
+
+/* .sect2>* {
+  border: 1px solid black;
+} */
+
+.sect2{
+  width:100%;
+  height:500px;
+}
+
+.sect2 div>img{
+  width:100%;
+  height:100%;
+}
+.sect2>*{
+  float:left;
+  width:50%;
+  margin:0;
+  height:100%;
+  padding:0 5% 0 0;
+  zoom:120%;
+}
+
+.sect2 ul{
+  content:".";
+  display:block;
+  height:40%;
+  width:100%;
+  clear:both;
+  /* border: 1px solid red; */
+  padding-left:0;
+
+}
+
+.sect2 li{
+  float:left;
+  width:33.333%;
+  list-style:none;
+  padding-top:5%;
+  height:100%;
+  /* border: 1px solid red; */
+}
+.sect2 li img{
+  width:30%;
+  height:30%;
+  display:block;
+}
+
+.sect2 span{
+  display:block;
+  /* border: 1px solid red; */
+  font-size:1rem;
+  padding-right:30%;
+  padding-top:5%;
+  height:100%;
+}
+/*************** SECTION 3 ****************/
+.sect3,.sect3>*{
+  /* border: 1px solid black; */
+}
+
+.sect3{
+  width:100%;
+  height:600px;
+}
+
+.sect3>*{
+  float:left;
+  width:50%;
+  height:100%;
+}
+/*margin:0;
+height:100%;
+padding:5% 0;
+zoom:120%;
+*/
+
+.sect3>div{
+  padding:5% 8%;
+}
+.sect3 section{
+  float:left;
+  /* border: 1px solid black; */
+  width:50%;
+  height:50%;
+}
+
+.time,.screen{
+ 
+}
+/*************** SECTION 4 ****************/
+
+.sect4{
+  /* border: 1px solid black; */
+  clear:both;
+  height:300px;
+}
+.sect4 form{
+  width:100%;
+  height:100px;
+  padding-left:5%;
+  /* border: 1px solid black; */
+}
+.sect4 form>*{
+  float:left;
+  width:33.33%;
+  margin:0;
+  padding:.7%;
+  /* border: 1px solid black; */
+}
+form>input, form>span{
+  display:block;
+}
+
+.sect4>ul{
+  /* display:block; */
+  float:left;
+  width:25%;
+  /* border: 1px solid black; */
+}
+
+.sect4 form a{
+  padding-left:50%;
+  text-decoration: none;
+  color:#0060ff;
+  font-weight: bolder;
+}
+
+form input{
+  background:rgb(155, 155, 155, .2);
+  border: none;
+}
+
+.sect4 ul li{
+  list-style:none;
+}
+/*************** FOOTER ****************/
+footer{
+  width:100%;
+  height:200px;
+  background:navy;
+  color:white;
+}
+
+.media{
+  width:100%;
+  padding-left:42%;
+}
+.media li{
+  float:left;
+  width:7%;
+  list-style:none;
+  border: 1px solid black;
+
+}
+.law li:first-child{
+  padding-top:50px;
+}
+
+.law li{
+  text-align: center;
+  list-style:none;
+}
+.law li a{
+  text-decoration: none;
+  color:white;
+}
+
+footer p{
+  width:100%;
+  padding-left:45%;
+  
+}
+  
+/******************************************
+/* ADDITIONAL STYLES
+/*******************************************/
+
+
+/*************** HEADER ****************/
+
+
+/**************** MAIN ********************/
+
+
+/*************** SECTION 1 ****************/
+
+
+/*************** SECTION 2 ****************/
+
+
+/*************** SECTION 3 ****************/
+
+
+/*************** SECTION 4 ****************/
+
+
+/*************** FOOTER ****************/

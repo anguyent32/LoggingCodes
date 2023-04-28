@@ -1,0 +1,6 @@
+[2023-04-18 02:20:06.849] [GIT  ] [/home/anguyent32/class08] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git • 521 ms (slow)
+
+[2023-04-18 02:20:17.480] [GIT  ] [/home/anguyent32/class08/class08-materials/class08-materials/layout3/css] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git • 1288 ms (slow)
+
+[2023-04-18 02:20:19.801] [GIT  ] [/home/anguyent32/class08/class08-materials/class08-materials/layout3] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git • 317 ms
+

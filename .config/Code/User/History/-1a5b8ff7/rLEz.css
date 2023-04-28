@@ -1,0 +1,16 @@
+/* <!-- Please make the li's blue, underlined, 15px, and have a gray background --> */
+li {
+    color: blue;
+    font-style: underline;   /* use text-decoration*/
+    font-size: 15px;
+    background: gray;
+}
+
+/* <!-- Please make this section have a height of 300px,
+ a light purple background, a gold border that is 5px thick --> */
+
+ section {
+    height: 300px;
+    background: rgb(180, 111, 180)
+    border: 5px solid gold;
+ }

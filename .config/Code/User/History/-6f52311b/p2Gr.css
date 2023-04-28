@@ -1,0 +1,50 @@
+html{
+    background: #87ceed;
+    color: white;
+}
+
+header, footer {
+    text-align: center;
+}
+
+p{
+    font-family: "Libre Basketville";
+
+}
+
+body {
+    border: 5px solid rgb(20, 223, 20);
+}
+
+li {
+    display: inline;
+    list-style-type: none;
+    padding-right: 4px;
+    padding-top: .00005px;
+}
+
+h1 {
+    font-style: italic;
+}
+
+h2, li{
+    font-family: "Kanit";
+}
+
+img {
+    float: right;
+    height: 200px;
+    width: 170px;
+}
+
+section {
+    margin: 1em;
+}
+
+a {
+    color: #48cd31;
+}
+
+li:not(:last-child) {
+    border-right: 2px solid grey;
+}

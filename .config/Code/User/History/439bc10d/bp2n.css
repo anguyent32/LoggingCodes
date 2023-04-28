@@ -1,0 +1,33 @@
+body>header, footer, section{
+    border: 1px solid black;
+    box-sizing: border-box;
+}
+
+body{
+    width: auto;
+    height: auto;
+}
+
+section {
+    float:left;
+    width:33.33%;
+    height:315px;
+}
+
+header, footer {
+    clear: both;
+    height: 140px;
+}
+
+@media and (max-width:1100px) {
+    section {
+        background: blue; 
+        border:1px dashed red;
+    }
+}
+
+@media screen and (max-width:800px) {
+    .ends {
+        background: yellowgreen; 
+    }
+}

@@ -1,0 +1,25 @@
+body>header, section, footer{
+    border: 1px solid grey;
+    box-sizing: border-box;
+    background: rgb(247, 241, 241);
+    width:100%;
+    height:100%;
+}
+
+.left{
+    float: left;
+    width:20%
+}
+
+.right{
+    float: right;
+    width: 20%;
+}
+
+.centerish{
+    box-a
+}
+
+header, footer {
+    clear:both;
+}

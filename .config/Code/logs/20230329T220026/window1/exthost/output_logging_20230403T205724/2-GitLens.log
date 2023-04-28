@@ -1,0 +1,18 @@
+[2023-04-04 00:57:28.105] [GIT  ] [/home/anguyent32/Class 22] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git • 44 ms
+
+[2023-04-04 00:57:38.029] [GIT  ] [/home/anguyent32/Class 22/class22-materials/class22-materials/turbo-review] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git • 122 ms
+
+[2023-04-04 00:57:44.257] [GIT  ] [/home/anguyent32/Class 22/class22-materials/class22-materials/turbo-review/js] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git • 56 ms
+
+[2023-04-06 01:15:23.409] [GIT  ] [/home/anguyent32/Class 22/class22-materials/class22-materials/space-review] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git • 59 ms
+
+[2023-04-06 01:15:27.108] [GIT  ] [/home/anguyent32/Class 22/class22-materials/class22-materials/space-review/js] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git • 49 ms
+
+[2023-04-06 06:12:44.461] [GIT  ] [/home/anguyent32/Class 22/class22-materials/class22-materials/objects-lost-galaxy] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git • 59 ms
+
+[2023-04-06 06:12:49.947] [GIT  ] [/home/anguyent32/Class 22/class22-materials/class22-materials/objects-lost-galaxy/js] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git • 129 ms
+
+[2023-04-06 06:53:55.952] [GIT  ] [/home/anguyent32/Class 22/class22-materials/class22-materials/objects-street-fighter] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git • 97 ms
+
+[2023-04-06 06:54:09.684] [GIT  ] [/home/anguyent32/Class 22/class22-materials/class22-materials/objects-street-fighter/js] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git • 48 ms
+

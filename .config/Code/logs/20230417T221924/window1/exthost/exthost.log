@@ -1,0 +1,36 @@
+2023-04-17 22:19:44.851 [info] Extension host with pid 724 started
+2023-04-17 22:19:44.851 [info] Skipping acquiring lock for /home/anguyent32/.config/Code/User/workspaceStorage/4027f052451e3d45d8e95582843aab18.
+2023-04-17 22:19:46.467 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-04-17 22:19:46.564 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+2023-04-17 22:19:47.085 [info] ExtensionService#_doActivateExtension vscode.css-language-features, startup: false, activationEvent: 'onLanguage:css'
+2023-04-17 22:19:47.166 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-04-17 22:19:47.179 [info] ExtensionService#_doActivateExtension ecmel.vscode-html-css, startup: true, activationEvent: '*'
+2023-04-17 22:19:49.740 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-04-17 22:19:50.193 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-04-17 22:19:50.898 [info] Eager extensions activated
+2023-04-17 22:19:51.239 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-04-17 22:19:51.255 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-04-17 22:19:51.949 [info] ExtensionService#_doActivateExtension eamodio.gitlens, startup: false, activationEvent: 'onStartupFinished'
+2023-04-17 22:19:52.830 [info] ExtensionService#_doActivateExtension GitHub.copilot, startup: false, activationEvent: 'onStartupFinished'
+2023-04-17 22:19:57.781 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2023-04-17 22:20:06.735 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2023-04-17 22:20:32.018 [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+2023-04-18 01:30:07.025 [info] ExtensionService#_doActivateExtension Wscats.cors-browser, startup: false, activationEvent: 'onCommand:extension.previewInDefaultBrowser'
+2023-04-18 02:08:08.968 [error] [ecmel.vscode-html-css] provider FAILED
+2023-04-18 02:08:08.968 [error] undefined
+2023-04-18 02:08:26.964 [error] [ecmel.vscode-html-css] provider FAILED
+2023-04-18 02:08:26.964 [error] undefined
+2023-04-18 02:08:41.209 [error] [ecmel.vscode-html-css] provider FAILED
+2023-04-18 02:08:41.209 [error] undefined
+2023-04-18 02:08:42.065 [error] [ecmel.vscode-html-css] provider FAILED
+2023-04-18 02:08:42.065 [error] undefined
+2023-04-18 03:07:27.238 [error] [ecmel.vscode-html-css] provider FAILED
+2023-04-18 03:07:27.238 [error] undefined
+2023-04-20 03:10:19.785 [error] [ecmel.vscode-html-css] provider FAILED
+2023-04-20 03:10:19.785 [error] undefined
+2023-04-20 03:10:21.945 [error] [ecmel.vscode-html-css] provider FAILED
+2023-04-20 03:10:21.945 [error] undefined
+2023-04-20 03:10:22.124 [error] [ecmel.vscode-html-css] provider FAILED
+2023-04-20 03:10:22.124 [error] undefined
+2023-04-20 03:12:44.235 [error] [ecmel.vscode-html-css] provider FAILED
+2023-04-20 03:12:44.235 [error] undefined

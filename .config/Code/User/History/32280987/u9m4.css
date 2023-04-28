@@ -1,0 +1,4 @@
+body>header, section, footer{
+    border: 1px solid grey;
+    box-sizing: border-box;
+}

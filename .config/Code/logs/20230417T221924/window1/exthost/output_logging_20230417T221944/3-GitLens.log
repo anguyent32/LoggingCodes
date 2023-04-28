@@ -1,0 +1,8 @@
+[2023-04-18 02:20:03.832] [GIT  ] [/home/anguyent32] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git • 909 ms (slow)
+
+[2023-04-18 02:20:08.503] [GIT  ] [/home/anguyent32/class10-materials/Cuisine/css] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git • 336 ms
+
+[2023-04-18 02:20:14.960] [GIT  ] [/home/anguyent32/class10-materials/Cuisine] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git • 378 ms
+
+[2023-04-27 09:29:47.633] [GIT  ] [/home/anguyent32] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git • 35 ms
+

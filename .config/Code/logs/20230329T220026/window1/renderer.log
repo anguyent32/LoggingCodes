@@ -1,0 +1,18 @@
+2023-03-29 22:00:35.518 [error] Extension 'github.copilot' wants API proposal 'interactive' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2023-03-29 22:01:20.885 [info] [perf] Render performance baseline is 516ms
+2023-03-30 17:10:23.617 [error] RequestService#request (browser) - error https://marketplace.visualstudio.com/_apis/public/gallery/extensionquery {}
+2023-03-30 21:17:10.290 [error] Extension 'github.copilot' wants API proposal 'interactive' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2023-03-30 21:17:16.426 [info] [perf] Render performance baseline is 167ms
+2023-03-31 11:16:12.708 [error] RequestService#request (browser) - error https://marketplace.visualstudio.com/_apis/public/gallery/extensionquery {}
+2023-04-03 20:57:23.180 [error] Extension 'github.copilot' wants API proposal 'interactive' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2023-04-03 20:57:29.981 [info] [perf] Render performance baseline is 135ms
+2023-04-04 20:09:16.765 [error] RequestService#request (browser) - error https://marketplace.visualstudio.com/_apis/public/gallery/extensionquery {}
+2023-04-07 01:19:45.837 [error] Extension 'github.copilot' wants API proposal 'interactive' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2023-04-07 01:19:49.898 [info] [perf] Render performance baseline is 144ms
+2023-04-08 19:38:24.060 [error] RequestService#request (browser) - error https://marketplace.visualstudio.com/_apis/public/gallery/extensionquery {}
+2023-04-11 16:42:01.124 [error] Extension 'github.copilot' wants API proposal 'interactive' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2023-04-11 16:42:07.387 [info] [perf] Render performance baseline is 161ms
+2023-04-11 20:17:37.821 [error] An unknown error occurred. Please consult the log for more details.
+2023-04-13 20:55:08.720 [error] An unknown error occurred. Please consult the log for more details.
+2023-04-13 20:55:42.197 [error] An unknown error occurred. Please consult the log for more details.
+2023-04-14 00:09:04.415 [error] An unknown error occurred. Please consult the log for more details.

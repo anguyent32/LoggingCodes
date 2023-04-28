@@ -1,0 +1,6 @@
+[2023-03-30 01:07:23.576] [GIT  ] [/home/anguyent32/Truck] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git • 246 ms
+
+[2023-03-30 01:07:26.445] [GIT  ] [/home/anguyent32/Truck] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git • 72 ms
+
+[2023-03-30 01:07:33.096] [GIT  ] [/home/anguyent32/Truck] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git • 96 ms
+

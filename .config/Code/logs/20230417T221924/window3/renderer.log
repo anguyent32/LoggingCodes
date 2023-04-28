@@ -1,0 +1,4 @@
+2023-04-17 22:19:42.420 [error] Extension 'github.copilot' wants API proposal 'interactive' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2023-04-17 22:19:42.421 [error] Extension 'github.copilot' appears in product.json but enables LESS API proposals than the extension wants.
+package.json (LOSES): inlineCompletionsAdditions, terminalDataWriteEvent
+product.json (WINS): inlineCompletionsAdditions

@@ -1,0 +1,70 @@
+2023-03-29 22:00:40.388 [warning] No ptyHost heartbeat after 6 seconds
+2023-03-29 22:00:51.568 [info] Starting worker process with pid 554 (type: fileWatcher, window: 2).
+2023-03-29 22:00:51.570 [info] Starting worker process with pid 555 (type: fileWatcher, window: 1).
+2023-03-30 08:05:39.777 [warning] No ptyHost heartbeat after 6 seconds
+2023-03-30 17:10:18.369 [warning] No ptyHost heartbeat after 6 seconds
+2023-03-30 21:17:07.379 [info] Worker process with pid 555 terminated normally (type: fileWatcher, window: 1).
+2023-03-30 21:17:10.133 [info] Starting worker process with pid 4278 (type: fileWatcher, window: 1).
+2023-03-31 11:16:02.563 [warning] No ptyHost heartbeat after 6 seconds
+2023-03-31 11:19:14.305 [warning] No ptyHost heartbeat after 6 seconds
+2023-03-31 17:56:43.286 [warning] No ptyHost heartbeat after 6 seconds
+2023-04-02 17:59:44.512 [warning] No ptyHost heartbeat after 6 seconds
+2023-04-03 07:16:55.272 [warning] No ptyHost heartbeat after 6 seconds
+2023-04-03 20:57:19.543 [info] Worker process with pid 4278 terminated normally (type: fileWatcher, window: 1).
+2023-04-03 20:57:23.097 [info] Starting worker process with pid 18406 (type: fileWatcher, window: 1).
+2023-04-03 20:57:29.507 [info] Getting Manifest... github.copilot
+2023-04-03 20:57:29.751 [info] Installing extension: github.copilot
+2023-04-03 20:57:40.040 [info] Extension signature verification: github.copilot. Verification status: Verified.
+2023-04-03 20:57:53.777 [info] Extracted extension to /home/anguyent32/.vscode/extensions/.0eeb51fe-757f-49da-8819-6708515b9bfe: github.copilot
+2023-04-03 20:57:53.807 [info] Renamed to /home/anguyent32/.vscode/extensions/github.copilot-1.79.10634
+2023-04-03 20:57:53.824 [info] Extracting extension completed. github.copilot
+2023-04-03 20:57:53.874 [info] Extension installed successfully: github.copilot
+2023-04-03 20:57:53.894 [info] Marked extension as uninstalled github.copilot-1.78.9758
+2023-04-04 20:09:11.567 [warning] No ptyHost heartbeat after 6 seconds
+2023-04-05 07:14:14.600 [warning] No ptyHost heartbeat after 6 seconds
+2023-04-05 14:41:23.426 [warning] No ptyHost heartbeat after 6 seconds
+2023-04-06 03:15:32.797 [warning] No ptyHost heartbeat after 6 seconds
+2023-04-07 01:02:21.690 [warning] No ptyHost heartbeat after 6 seconds
+2023-04-07 01:19:42.061 [info] Worker process with pid 18406 terminated normally (type: fileWatcher, window: 1).
+2023-04-07 01:19:44.869 [info] Starting worker process with pid 26241 (type: fileWatcher, window: 1).
+2023-04-07 01:19:50.597 [info] Getting Manifest... ms-vscode.remote-explorer
+2023-04-07 01:19:50.737 [info] Installing extension: ms-vscode.remote-explorer
+2023-04-07 01:19:54.437 [info] Extension signature verification: ms-vscode.remote-explorer. Verification status: Verified.
+2023-04-07 01:19:54.694 [info] Extracted extension to /home/anguyent32/.vscode/extensions/.f24f4b8e-eabc-4312-a646-7ada8454b787: ms-vscode.remote-explorer
+2023-04-07 01:19:54.722 [info] Renamed to /home/anguyent32/.vscode/extensions/ms-vscode.remote-explorer-0.4.0
+2023-04-07 01:19:54.735 [info] Extracting extension completed. ms-vscode.remote-explorer
+2023-04-07 01:19:54.782 [info] Extension installed successfully: ms-vscode.remote-explorer
+2023-04-07 01:19:54.788 [info] Marked extension as uninstalled ms-vscode.remote-explorer-0.2.0
+2023-04-08 19:38:23.404 [warning] No ptyHost heartbeat after 6 seconds
+2023-04-09 19:37:32.424 [warning] No ptyHost heartbeat after 6 seconds
+2023-04-09 20:20:56.650 [warning] No ptyHost heartbeat after 6 seconds
+2023-04-09 21:37:37.597 [warning] No ptyHost heartbeat after 6 seconds
+2023-04-10 06:49:18.957 [warning] No ptyHost heartbeat after 6 seconds
+2023-04-11 16:39:44.942 [warning] No ptyHost heartbeat after 6 seconds
+2023-04-11 16:41:57.927 [info] Worker process with pid 26241 terminated normally (type: fileWatcher, window: 1).
+2023-04-11 16:42:00.404 [info] Starting worker process with pid 2254 (type: fileWatcher, window: 1).
+2023-04-11 16:42:05.608 [info] Getting Manifest... eamodio.gitlens
+2023-04-11 16:42:05.615 [info] Getting Manifest... github.copilot
+2023-04-11 16:42:05.843 [info] Installing extension: eamodio.gitlens
+2023-04-11 16:42:05.856 [info] Installing extension: github.copilot
+2023-04-11 16:42:17.245 [info] Extension signature verification: eamodio.gitlens. Verification status: Verified.
+2023-04-11 16:42:21.750 [info] Extension signature verification: github.copilot. Verification status: Verified.
+2023-04-11 16:42:27.655 [info] Extracted extension to /home/anguyent32/.vscode/extensions/.482b87c8-e5e1-487c-9356-9620633bd0d8: eamodio.gitlens
+2023-04-11 16:42:27.810 [info] Renamed to /home/anguyent32/.vscode/extensions/eamodio.gitlens-13.5.0
+2023-04-11 16:42:27.916 [info] Extracting extension completed. eamodio.gitlens
+2023-04-11 16:42:28.657 [info] Extension installed successfully: eamodio.gitlens
+2023-04-11 16:42:29.081 [info] Marked extension as uninstalled eamodio.gitlens-13.4.0
+2023-04-11 16:42:44.322 [info] Extracted extension to /home/anguyent32/.vscode/extensions/.35583143-bbde-4f95-acdf-6f2adabe7586: github.copilot
+2023-04-11 16:42:44.356 [info] Renamed to /home/anguyent32/.vscode/extensions/github.copilot-1.82.15
+2023-04-11 16:42:44.370 [info] Extracting extension completed. github.copilot
+2023-04-11 16:42:44.418 [info] Extension installed successfully: github.copilot
+2023-04-11 16:42:44.425 [info] Marked extension as uninstalled github.copilot-1.79.10634
+2023-04-11 19:22:57.724 [warning] No ptyHost heartbeat after 6 seconds
+2023-04-11 21:12:46.957 [info] Starting worker process with pid 3410 (type: fileWatcher, window: 4).
+2023-04-11 21:15:34.868 [info] Worker process with pid 3410 terminated normally (type: fileWatcher, window: 4).
+2023-04-11 21:15:38.812 [info] Starting worker process with pid 3476 (type: fileWatcher, window: 4).
+2023-04-11 21:16:04.527 [info] Worker process with pid 3476 terminated normally (type: fileWatcher, window: 4).
+2023-04-11 21:16:08.687 [info] Starting worker process with pid 3559 (type: fileWatcher, window: 4).
+2023-04-11 21:16:33.907 [info] Worker process with pid 3559 terminated normally (type: fileWatcher, window: 4).
+2023-04-11 21:16:37.041 [info] Starting worker process with pid 3619 (type: fileWatcher, window: 4).
+2023-04-14 07:15:16.539 [warning] No ptyHost heartbeat after 6 seconds

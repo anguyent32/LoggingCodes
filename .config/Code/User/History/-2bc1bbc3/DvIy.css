@@ -1,0 +1,24 @@
+/* NO classes or IDs */
+/* Please Make only World and Zebra Blue */
+
+section>h2 {
+    color: blue;
+}
+
+/* Please Make only Zebra Purple */
+
+section > h2 + h2 { /*zebra is sibling of world (h+h) and direct descendent of section (>)*/
+    color: purple;
+}
+
+/* Please Make only Hufflepuff Gold */
+
+article > h2 + h2 { 
+    color: gold;
+}
+
+/* Please keep Hufflepuff Gold and make ONLY Unicorn Gray  */
+
+article > h2{
+    color: gray;
+}

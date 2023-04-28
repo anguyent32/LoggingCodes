@@ -1,0 +1,17 @@
+2023-03-26 00:19:29.152 [info] Starting worker process with pid 12031 (type: fileWatcher, window: 1).
+2023-03-26 00:19:29.815 [info] Deleted from disk eamodio.gitlens /home/anguyent32/.vscode/extensions/eamodio.gitlens-13.3.2
+2023-03-26 00:19:29.821 [info] Deleted from disk github.copilot /home/anguyent32/.vscode/extensions/github.copilot-1.77.9225
+2023-03-26 00:19:40.606 [info] Worker process with pid 12031 terminated normally (type: fileWatcher, window: 1).
+2023-03-26 00:19:42.780 [info] Starting worker process with pid 12062 (type: fileWatcher, window: 1).
+2023-03-26 02:29:24.523 [warning] No ptyHost heartbeat after 6 seconds
+2023-03-26 02:57:32.526 [warning] No ptyHost heartbeat after 6 seconds
+2023-03-27 17:33:10.317 [warning] No ptyHost heartbeat after 6 seconds
+2023-03-28 17:17:14.899 [warning] No ptyHost heartbeat after 6 seconds
+2023-03-28 19:27:30.543 [warning] No ptyHost heartbeat after 6 seconds
+2023-03-28 20:54:43.503 [warning] No ptyHost heartbeat after 6 seconds
+2023-03-29 17:08:46.747 [warning] No ptyHost heartbeat after 6 seconds
+2023-03-29 17:55:30.144 [warning] No ptyHost heartbeat after 6 seconds
+2023-03-29 19:56:57.500 [warning] No ptyHost heartbeat after 6 seconds
+2023-03-29 21:06:25.161 [info] Starting worker process with pid 27337 (type: fileWatcher, window: 3).
+2023-03-29 21:07:15.930 [info] Worker process with pid 27337 terminated normally (type: fileWatcher, window: 3).
+2023-03-29 21:07:18.807 [info] Starting worker process with pid 27385 (type: fileWatcher, window: 3).

@@ -1,0 +1,10 @@
+* {
+    box-sizing: border-box;
+}
+html {
+    border: 5
+}
+section {
+    display: inline;
+    float: left;
+}

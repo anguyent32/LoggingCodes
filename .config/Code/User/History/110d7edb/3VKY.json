@@ -1,0 +1,9 @@
+{
+    "workbench.colorTheme": "Default Dark+",
+    "workbench.sideBar.location": "right",
+    "workbench.startupEditor": "none",
+    "window.zoomLevel": -1,
+    "editor.fontSize": 16,
+    "files.autoSave": "onFocusChange",
+    "liveServer.settings.donotShowInfoMsg": true
+}

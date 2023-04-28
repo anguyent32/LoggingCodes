@@ -1,0 +1,36 @@
+div>section, header, footer {
+    border:1px solid black;
+    box-sizing: border-box;
+}
+
+div {
+    width: 80%;
+    margin-left:auto;
+    margin-right:auto;
+    margin-bottom: auto;
+    margin-top: auto;
+    background-color: aqua;
+    box-sizing: border-box;
+}
+
+.upper {
+    width: 33.3%;
+    box-sizing: border-box;
+    float:left;
+}
+
+header, footer{
+    clear:both;
+}
+
+.left {
+    float:left;
+    width: 50.3%;
+    box-sizing: border-box;
+}
+
+.right {
+    float:right;
+    width:50.3%;
+    box-sizing: border-box;
+}

@@ -1,0 +1,14 @@
+[2023-03-26 04:19:46.010] [GIT  ] [/home/anguyent32/Class 20] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git • 302 ms
+
+[2023-03-26 04:23:43.956] [GIT  ] [/home/anguyent32/Class 20/class20-materials_/class20-materials /review-winter-games] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git • 151 ms
+
+[2023-03-26 04:23:49.023] [GIT  ] [/home/anguyent32/Class 20/class20-materials_/class20-materials /review-winter-games/js] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git • 419 ms
+
+[2023-03-26 04:25:58.951] [GIT  ] [/home/anguyent32/Class 20/class20-materials_/class20-materials /review-summer-games] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git • 38 ms
+
+[2023-03-26 04:26:06.689] [GIT  ] [/home/anguyent32/Class 20/class20-materials_/class20-materials /review-summer-games/js] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git • 20 ms
+
+[2023-03-26 06:27:25.211] [GIT  ] [/home/anguyent32/Class 20/class20-materials_/class20-materials /arrays-worldwide-cheersmack] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git • 27 ms
+
+[2023-03-26 06:27:35.593] [GIT  ] [/home/anguyent32/Class 20/class20-materials_/class20-materials /arrays-worldwide-cheersmack/js] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git • 25 ms
+

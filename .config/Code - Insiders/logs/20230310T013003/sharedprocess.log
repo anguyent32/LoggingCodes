@@ -1,0 +1,8 @@
+2023-03-10 01:30:20.238 [warning] No ptyHost heartbeat after 6 seconds
+2023-03-10 01:30:40.553 [info] Getting Manifest... wscats.cors-browser
+2023-03-10 01:30:40.693 [info] Installing extension: wscats.cors-browser
+2023-03-10 01:30:54.344 [info] Extension signature verification: wscats.cors-browser. Verification status: Verified.
+2023-03-10 01:30:56.762 [info] Extracted extension to /home/anguyent32/.vscode-insiders/extensions/.337aa056-ef06-440d-bb23-b42d0669c730: wscats.cors-browser
+2023-03-10 01:30:56.842 [info] Renamed to /home/anguyent32/.vscode-insiders/extensions/wscats.cors-browser-1.0.11
+2023-03-10 01:30:56.873 [info] Extracting extension completed. wscats.cors-browser
+2023-03-10 01:30:56.974 [info] Extension installed successfully: wscats.cors-browser

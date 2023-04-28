@@ -1,0 +1,6 @@
+2023-04-17 22:19:42.113 [error] Extension 'github.copilot' wants API proposal 'interactive' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2023-04-17 22:19:42.125 [error] Extension 'github.copilot' appears in product.json but enables LESS API proposals than the extension wants.
+package.json (LOSES): inlineCompletionsAdditions, terminalDataWriteEvent
+product.json (WINS): inlineCompletionsAdditions
+2023-04-17 22:20:04.053 [warning] [lifecycle] onBeforeShutdown is taking a long time, pending operations: veto.backups
+2023-04-17 22:20:08.419 [warning] [lifecycle] onWillShutdown is taking a long time, pending operations: join.closeStorage

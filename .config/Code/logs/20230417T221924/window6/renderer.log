@@ -1,0 +1,23 @@
+2023-04-23 22:43:04.682 [error] Extension 'github.copilot' wants API proposal 'interactive' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2023-04-23 22:43:04.725 [error] Extension 'github.copilot' wants API proposal 'semanticSimilarity' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2023-04-23 22:43:11.013 [info] [perf] Render performance baseline is 246ms
+2023-04-23 22:44:05.610 [error] Extension 'github.copilot' wants API proposal 'interactive' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2023-04-23 22:44:05.614 [error] Extension 'github.copilot' wants API proposal 'semanticSimilarity' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2023-04-23 22:44:14.059 [info] [perf] Render performance baseline is 136ms
+2023-04-23 22:44:59.206 [error] An unknown error occurred. Please consult the log for more details.
+2023-04-23 22:45:00.848 [error] An unknown error occurred. Please consult the log for more details.
+2023-04-23 22:45:29.544 [error] An unknown error occurred. Please consult the log for more details.
+2023-04-23 22:45:30.647 [error] An unknown error occurred. Please consult the log for more details.
+2023-04-23 22:45:33.023 [error] An unknown error occurred. Please consult the log for more details.
+2023-04-23 22:45:36.102 [error] An unknown error occurred. Please consult the log for more details.
+2023-04-23 22:45:39.706 [error] An unknown error occurred. Please consult the log for more details.
+2023-04-23 22:45:41.252 [error] An unknown error occurred. Please consult the log for more details.
+2023-04-23 22:45:46.409 [error] An unknown error occurred. Please consult the log for more details.
+2023-04-23 22:45:56.200 [error] An unknown error occurred. Please consult the log for more details.
+2023-04-23 22:47:10.348 [error] An unknown error occurred. Please consult the log for more details.
+2023-04-23 22:47:15.968 [error] An unknown error occurred. Please consult the log for more details.
+2023-04-23 22:47:17.255 [error] An unknown error occurred. Please consult the log for more details.
+2023-04-23 22:47:18.806 [error] An unknown error occurred. Please consult the log for more details.
+2023-04-23 22:47:25.738 [error] An unknown error occurred. Please consult the log for more details.
+2023-04-23 22:47:31.770 [error] An unknown error occurred. Please consult the log for more details.
+2023-04-24 23:52:55.677 [error] RequestService#request (browser) - error https://marketplace.visualstudio.com/_apis/public/gallery/extensionquery {}

@@ -1,0 +1,13 @@
+2023-04-17 22:19:40.001 [error] Extension 'github.copilot' wants API proposal 'interactive' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2023-04-17 22:19:40.015 [error] Extension 'github.copilot' appears in product.json but enables LESS API proposals than the extension wants.
+package.json (LOSES): inlineCompletionsAdditions, terminalDataWriteEvent
+product.json (WINS): inlineCompletionsAdditions
+2023-04-17 22:20:38.558 [info] [perf] Render performance baseline is 277ms
+2023-04-18 02:08:08.972 [error] An unknown error occurred. Please consult the log for more details.
+2023-04-18 02:08:26.970 [error] An unknown error occurred. Please consult the log for more details.
+2023-04-18 02:08:41.219 [error] An unknown error occurred. Please consult the log for more details.
+2023-04-18 03:07:27.249 [error] An unknown error occurred. Please consult the log for more details.
+2023-04-18 18:51:52.085 [error] RequestService#request (browser) - error https://marketplace.visualstudio.com/_apis/public/gallery/extensionquery {}
+2023-04-20 03:10:19.793 [error] An unknown error occurred. Please consult the log for more details.
+2023-04-20 03:10:21.971 [error] An unknown error occurred. Please consult the log for more details.
+2023-04-20 03:12:44.243 [error] An unknown error occurred. Please consult the log for more details.

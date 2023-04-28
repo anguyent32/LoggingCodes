@@ -1,0 +1,212 @@
+/* Box Model Hack */
+* {
+  box-sizing: border-box;
+}
+
+/* Clear fix hack */
+.clearfix:after {
+     content: ".";
+     display: block;
+     clear: both;
+     visibility: hidden;
+     line-height: 0;
+     height: 0;
+}
+
+.clear {
+	clear: both;
+}
+
+/******************************************
+/* BASE STYLES
+/*******************************************/
+html{
+  font-size: 62.5%;
+}
+body {
+
+}
+
+
+/******************************************
+/* LAYOUT
+/*******************************************/
+header {
+
+}
+
+footer {
+
+}
+
+/******************************************
+/* ADDITIONAL STYLES
+/*******************************************/
+/*=================DIV w/ HEADER and MAIN==========================*/
+
+body img{
+  width: 100px;
+  height: 100px;
+}
+
+.divone{
+  position:relative;
+  height:100%;
+}
+
+.bgimg1{
+  width: 100vw;
+  height: auto;
+  position: absolute;
+  z-index: -1;
+  object-fit:fill;
+}
+
+nav li{
+  text-align:right;
+  height:100%;
+  list-style: none;
+}
+
+nav ul{
+  float: right;
+  display:flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  width:60%;
+  height:100%;
+}
+nav ul li a{
+  width: 100%;
+  height:100%;
+  text-decoration: none;
+}
+.divone header{
+ height: 5vh;
+ clear:both;
+ font-size: 1.6vw;
+ font-family: sans-serif;
+ font-weight: bolder;
+}
+
+header nav{
+  clear: both;
+  width: 100%;
+  height:50%;
+
+}
+
+.shopCart{
+  width:100%;
+  height:100%;
+}
+
+.divone main{
+  width:100%;
+  height: 95%;
+  padding: 8% 50% 10% 10%;
+}
+
+.divone main> h1{
+  font-size: 6.0vw;
+  margin:0;
+}
+
+main form{
+  font-size: 2.5vw;
+  width: 100%;
+  padding-left: 2.55%;
+  display: flex;
+}
+main form input{
+  width:100%;
+  padding: 2% 5%;
+  font-size: 10rem;
+  border-radius: 15% 0 0 15%;
+  border-color: rgb(190, 189, 189);
+}
+
+main form button{
+  font-size: 10rem;
+  padding: 0 5%;
+  border-radius: 0 15% 15% 0;
+  border-color:orange;
+  background-color: orange;
+  color:white;
+}
+
+main ul{
+  display: flex;
+  justify-content: space-between;
+  width: 50%;
+  height: 50%;
+  padding-top: 7%;
+}
+
+main li{
+  display:flex;
+}
+
+.twitter1, .insta1, .fb1{
+  width:25%;
+  height:25%;
+  font-size:8rem;
+}
+
+main div ul img{
+  width:100%;
+  height: 100%;
+}
+
+/*===============SEC ONE =============*/
+
+.sec1{
+  position: relative;
+  height: 100%;
+  clear:both;
+}
+
+.imgbg2{
+  position:absolute;
+  width: 100vw;
+  height: auto;
+  z-index: -1;
+  object-fit:fill;
+}
+
+.sec1>div{
+  width: 100%;
+  height: 100%;
+  padding-top:7%;
+}
+
+.sec1 div>*:not(button){
+  font-size: 6.5rem;
+  padding-left:40%;
+  padding-right: 15%;
+}
+
+.sec1>div>h1{
+  font-size: 25rem;
+  margin-top:0;
+}
+
+.sec1>div>span{
+  color:orange;
+}
+
+.sec1 button{
+  background-color: orange;
+  color: white;
+  border-radius: 10%;
+  width:30%;
+  height:200px;
+  font-weight: bolder;
+}
+
+.sec1 button>span+span{
+  font-size:10rem;
+  font-weight: bolder;
+  width:100px;
+  height:100%;
+}

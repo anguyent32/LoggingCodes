@@ -1,0 +1,22 @@
+body>header, footer, section{
+    border: 1px solid black;
+}
+
+body{
+    width: auto;
+    box-sizing: border-box;
+    height: auto;
+}
+
+section {
+    float:left;
+    width:33.33%;
+    box-sizing: border-box;
+    height:300px;
+}
+
+header, footer {
+    clear: both;
+    box-sizing: border-box;
+    height:140px;
+}

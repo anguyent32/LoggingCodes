@@ -1,0 +1,3 @@
+2023-03-29 22:00:34.255 [error] Extension 'github.copilot' wants API proposal 'interactive' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2023-03-29 22:01:16.881 [info] [perf] Render performance baseline is 253ms
+2023-03-30 17:10:19.858 [error] RequestService#request (browser) - error https://marketplace.visualstudio.com/_apis/public/gallery/extensionquery {}

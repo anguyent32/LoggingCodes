@@ -1,0 +1,11 @@
+* {
+    box-sizing: border-box;
+}
+
+body{
+    border: 3px solid black;
+}
+
+section{
+    float: left;
+}

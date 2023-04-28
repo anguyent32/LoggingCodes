@@ -1,0 +1,12 @@
+* {
+    box-sizing: border-box;
+}
+
+html {
+    border:5px solid black;
+}
+
+section {
+    display: inline;
+    float: left;
+}

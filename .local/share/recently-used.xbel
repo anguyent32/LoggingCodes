@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/anguyent32/Truck" added="2023-03-09T04:29:54.650686Z" modified="2023-03-30T01:07:15.627186Z" visited="2023-03-09T04:29:54.650687Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2023-03-30T01:07:15.627155Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/anguyent32/Class%2020" added="2023-03-24T04:42:04.661300Z" modified="2023-03-26T04:19:40.375118Z" visited="2023-03-24T04:42:04.661303Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2023-03-26T04:19:40.375112Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/anguyent32/Class%2021" added="2023-03-31T01:17:06.934965Z" modified="2023-03-31T01:27:42.473138Z" visited="2023-03-31T01:17:06.934967Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2023-03-31T01:27:42.473131Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/anguyent32/Class%2022" added="2023-04-04T00:57:19.145750Z" modified="2023-04-04T00:57:19.145787Z" visited="2023-04-04T00:57:19.145752Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2023-04-04T00:57:19.145757Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/anguyent32/Class%2023" added="2023-04-07T05:19:41.718156Z" modified="2023-04-07T05:19:41.718220Z" visited="2023-04-07T05:19:41.718158Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2023-04-07T05:19:41.718181Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/anguyent32" added="2023-04-11T20:41:57.558475Z" modified="2023-04-12T01:15:11.060791Z" visited="2023-04-11T20:41:57.558477Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2023-04-12T01:15:11.060782Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/anguyent32/Playground" added="2023-04-24T02:42:45.275536Z" modified="2023-04-24T02:44:02.626900Z" visited="2023-04-24T02:42:45.275538Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2023-04-24T02:44:02.626894Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

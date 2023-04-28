@@ -1,0 +1,18 @@
+body>section, header, footer {
+    border:1px solid black;
+    box-sizing: border-box;
+}
+
+.fly{
+    width: 35%;
+    float: left;
+
+}
+
+footer{
+    clear:left;
+}
+
+.longer {
+    padding-left: 40px;
+}

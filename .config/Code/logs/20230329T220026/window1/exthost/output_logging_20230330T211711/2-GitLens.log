@@ -1,0 +1,14 @@
+[2023-03-31 01:17:15.194] [GIT  ] [/home/anguyent32/Class 21] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git • 346 ms
+
+[2023-03-31 01:28:30.838] [GIT  ] [/home/anguyent32/Class 21/class21-materials/class21-materials/mighty-morphin-review] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git • 27 ms
+
+[2023-03-31 01:28:41.627] [GIT  ] [/home/anguyent32/Class 21/class21-materials/class21-materials/mighty-morphin-review/js] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git • 91 ms
+
+[2023-04-01 04:44:41.960] [GIT  ] [/home/anguyent32/Class 21/class21-materials/class21-materials/alien-rangers-review] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git • 87 ms
+
+[2023-04-01 04:44:50.312] [GIT  ] [/home/anguyent32/Class 21/class21-materials/class21-materials/alien-rangers-review/js] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git • 56 ms
+
+[2023-04-03 03:44:54.596] [GIT  ] [/home/anguyent32/Class 21/class21-materials/class21-materials/objects-zeo] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git • 133 ms
+
+[2023-04-03 03:45:02.489] [GIT  ] [/home/anguyent32/Class 21/class21-materials/class21-materials/objects-zeo/js] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git • 130 ms
+

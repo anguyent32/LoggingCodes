@@ -1,0 +1,8 @@
+[2023-04-24 02:44:10.589] [GIT  ] [/home/anguyent32/Playground] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git • 217 ms
+
+[2023-04-24 02:44:25.745] [GIT  ] [/home/anguyent32/Playground] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git • 88 ms
+
+[2023-04-24 02:44:35.472] [GIT  ] [/home/anguyent32/Playground] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git • 101 ms
+
+[2023-04-24 02:46:37.197] [GIT  ] [/home/anguyent32/Playground] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git • 74 ms
+

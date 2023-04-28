@@ -1,0 +1,311 @@
+/* Box Model Hack */
+* {
+  box-sizing: border-box;
+}
+
+/* Clear fix hack */
+.clearfix:after {
+     content: ".";
+     display: block;
+     clear: both;
+     visibility: hidden;
+     line-height: 0;
+     height: 0;
+}
+
+.clear {
+	clear: both;
+}
+
+/******************************************
+/* BASE STYLES
+/*******************************************/
+
+
+/******************************************
+/* LAYOUT
+/*******************************************/
+
+/* ------------HEADER--------------- */
+nav>*{
+  float: left;
+  width: 33.333%;
+}
+nav{
+  clear:both;
+}
+
+nav>ul{
+  width:20%;
+}
+
+nav>img{
+  width:10%;           
+  margin-left:10%;
+  margin-right:10%;
+  margin-top:1%;
+}
+
+nav>button{
+  width:7%;           /* fixing here-------<*/
+  padding:.4% 0;
+  margin-top:1%;
+  float:left;
+}
+nav ul li{
+  float:left;
+  width:50%;  
+  text-align: left;
+  list-style:none;
+}
+
+/* ------SECTION 1 BELOW HEADER---------- */
+
+.sect1{
+  height:800px;
+}
+
+.sect1>*{
+  height:25%;
+
+}
+
+.sect1>h1{
+  font-size:80px;
+  position:relative;
+  bottom: -10%;
+}
+
+.sect1>h1+p{
+  color:white;
+  padding: 40px 250px;
+  font-size: 35px;
+}
+
+.sect1>a span{
+  font-size:30px;
+}
+
+.sect1 p i {
+  position:relative;
+  bottom:-80%;
+  font-size: 23px;;
+}
+
+/* ------------ SECTION 2--------------- */
+
+.sect2{
+  height:700px
+}
+.sect2 p{
+  padding: 0 500px;
+  font-size: 35px;
+}
+
+.sect2>*{
+  position:relative;
+  top:20%;
+}
+
+/* ------------ SECTION 3 w/ 2 BOXES -------------- */
+
+.sect3 div{
+ float:left;
+ width:50%;
+}
+
+/* ------------ SECTION 4--------------- */
+.sect4{
+  margin:100px 450px;
+  height:600px;
+
+}
+.sect4>* {
+  position:relative;
+  top:25%;
+  margin:0;
+}
+
+.sect4 p{
+  margin:50px 0;
+  font-size:30px;
+}
+
+.sect4 h1{
+  font-size: 35px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-stretch: 130%;
+}
+/* ------------ FOOTER--------------- */
+
+footer>section{
+  float:left;
+  width:50%;
+  height:300px;
+}
+
+footer>div{
+  clear:both;
+}
+
+
+.ft2child{
+  position: absolute;
+  right:0;
+  width:20%;
+} 
+
+.ft1 div>ul{
+  margin:0;
+}
+
+.ft1 div ul li img{
+  padding-top:20px;
+}
+
+.ft1 div ul li{
+  float:left;
+  padding-right: 40px;
+  padding-top: 10px;
+}
+
+
+.ft1 div p {
+  margin:1px;
+  float:left;
+  width:100%;
+  padding-top: 30px;
+}
+
+.ft1l1 li {
+  padding-top: 30px;
+  width:20%;
+  text-align:left;
+}
+
+/****************************************
+/* ADDITIONAL STYLES
+/*******************************************/
+body>*{ 
+  text-align: center;
+  border: 1px solid #66768a;
+} 
+
+html{
+  font-size:25px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+html a:hover{
+  color:#161f2a;
+}
+/* ------------HEADER--------------- */
+header {
+  background: #66768a;
+}
+
+nav ul li a{
+  text-decoration: none;
+  color:white;
+}
+
+a{
+  color:#66768a;
+  text-decoration: none;
+  font-weight:900;
+}
+
+/* ------------SECTION 1 BELOW HEADER--------------- */
+
+header+section {
+  background: #66768a;
+  color:white;
+}
+
+section a span{
+  color:white;
+}
+
+header+section p{
+  color:#161f2a;
+}
+
+/* ------------ SECTION 2--------------- */
+
+
+/* ------------ SECTION 3 w/ 2 BOXES -------------- */
+
+.sect3, .sect3>div{
+  border: 100px solid #dbdfe2;
+  background:#dbdfe2;
+}
+
+.sect3 img{
+  width:600px;
+  height:350px;
+}
+
+.sect3 p{
+  padding-bottom:70px;
+}
+
+.sect3 a{
+  border: 1px solid grey;
+  padding: 20px 40px
+}
+/* ------------ SECTION 4--------------- */
+
+.sect4>*{
+  color:#161f2a;
+}
+
+.sect4 a{
+  border:1px solid grey;
+  padding:20px 60px;
+  font-size:20px;
+  font-family:Arial, Helvetica, sans-serif;
+}
+
+.sect4{
+  border:1px solid white;
+}
+/* ------------ FOOTER--------------- */
+
+footer{
+  background:#161f2a;
+  color:white;
+}
+
+footer>div, footer>section, .ft1 div>*,.ft2 div>*{
+  text-align:right;
+
+}
+
+.ft2child address, .ft2child h4{
+  text-align:left;
+  font-style:normal;
+} 
+
+.ft1 div p {
+ text-align:left;
+ padding-left:40px;
+ color:#66768a;
+}
+
+.ft1l1 li a{
+  text-align:left;
+}
+
+.ft1 li{
+  list-style:none;
+}
+
+.ft1 div ul li a{
+  color: white;
+}
+
+footer div p{
+  text-align:left;
+  padding:0 40px;
+  font-size:20px;
+  margin-right: 0;
+}

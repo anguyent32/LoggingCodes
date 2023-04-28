@@ -1,0 +1,2 @@
+2023-04-27 05:08:37.257 [error] Extension 'github.copilot' wants API proposal 'interactive' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2023-04-27 05:08:37.260 [error] Extension 'github.copilot' wants API proposal 'semanticSimilarity' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.

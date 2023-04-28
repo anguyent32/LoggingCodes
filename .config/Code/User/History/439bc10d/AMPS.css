@@ -1,0 +1,50 @@
+body>header, footer, section{
+    border: 1px solid black;
+    box-sizing: border-box;
+}
+
+body{
+    width: auto;
+    height: 100vh;
+}
+
+section {
+    float:left;
+    width:33.33%;
+    height:315px;
+    background: turquoise;
+}
+
+header, footer {
+    clear: both;
+    height: 140px;
+    background: lime;
+}
+
+@media (min-width:601px) and (max-width:750px) {
+    section {
+        background: blue; 
+        border:1px dashed red;
+        width: 50%;
+    }
+    .mid {
+        display: none;
+    }
+    .last {
+        float:right;
+    }
+    .ends {
+        background: lightgreen;
+    }
+}
+
+@media (max-width:587px) {
+    .ends {
+        background: yellowgreen; 
+    }
+    section {
+        float: none;
+        width:100%;
+        background: lightblue;
+    }
+}
